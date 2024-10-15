@@ -1,0 +1,184 @@
+{
+  "truckModels": [
+    {
+      "manufacturer": "Volvo",
+      "model": "FH",
+      "year": 2012,
+      "description": "The Volvo FH is a heavy-duty truck range designed for long-haul operations. Known for its fuel efficiency and driver comfort, it features a spacious cab, advanced safety systems, and powerful engine options. The FH series has been continuously improved since its introduction, with recent models offering hybrid powertrains for reduced emissions."
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "Actros",
+      "year": 2011,
+      "description": "The Mercedes-Benz Actros is a range of heavy-duty trucks known for its cutting-edge technology and comfort. It offers features like MirrorCam (replacing traditional mirrors), Active Brake Assist, and a multimedia cockpit. The Actros is designed for long-distance haulage and heavy-duty distribution, with a focus on reducing total cost of ownership."
+    },
+    {
+      "manufacturer": "Scania",
+      "model": "R Series",
+      "year": 2004,
+      "description": "The Scania R Series is a versatile range of trucks suitable for various applications, from long-haul to construction. It's known for its robust build quality, fuel efficiency, and driver comfort. The R Series offers a range of powertrains, including options for alternative fuels, and has a reputation for reliability and strong residual values."
+    },
+    {
+      "manufacturer": "DAF",
+      "model": "XF",
+      "year": 2005,
+      "description": "The DAF XF is a series of heavy-duty trucks designed primarily for long-distance transport. It's recognized for its spacious and comfortable cab, fuel-efficient engines, and low operating costs. Recent models feature advanced driver assistance systems and aerodynamic improvements for better fuel economy."
+    },
+    {
+      "manufacturer": "MAN",
+      "model": "TGX",
+      "year": 2007,
+      "description": "The MAN TGX is a premium long-haul truck known for its comfort and efficiency. It offers a range of powerful and efficient engines, advanced driver assistance systems, and a spacious cab design. The TGX is popular among fleet operators for its reliability and low total cost of ownership."
+    },
+    {
+      "manufacturer": "Iveco",
+      "model": "Stralis",
+      "year": 2002,
+      "description": "The Iveco Stralis is a heavy-duty truck range designed for long-haul and regional missions. It offers a good balance of performance and efficiency, with options for natural gas powertrains in addition to diesel. The Stralis features a comfortable cab and advanced telematics for fleet management."
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "T",
+      "year": 2013,
+      "description": "The Renault T is a long-haul truck known for its fuel efficiency and driver comfort. It features aerodynamic design, efficient engines, and a spacious cab. The T series offers advanced connectivity options and driver assistance systems, making it a popular choice for modern fleets."
+    },
+    {
+      "manufacturer": "Volvo",
+      "model": "FM",
+      "year": 1998,
+      "description": "The Volvo FM is a versatile truck range suitable for regional transport, light construction, and distribution. It offers good maneuverability and visibility, making it well-suited for varied applications. Recent models feature improved aerodynamics and advanced safety systems."
+    },
+    {
+      "manufacturer": "Scania",
+      "model": "S Series",
+      "year": 2016,
+      "description": "The Scania S Series is the premium range in Scania's lineup, designed for long-haul operations. It features a flat floor cab for maximum space, advanced driver support systems, and highly efficient powertrains. The S Series is known for its luxurious interior and excellent fuel economy."
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "Arocs",
+      "year": 2013,
+      "description": "The Mercedes-Benz Arocs is a heavy-duty truck designed specifically for the construction sector. It offers robust construction, high ground clearance, and powerful engines suitable for tough off-road conditions. The Arocs features a range of cab options to suit different applications within the construction industry."
+    },
+    {
+      "manufacturer": "DAF",
+      "model": "CF",
+      "year": 2000,
+      "description": "The DAF CF is a versatile truck series suitable for a wide range of applications including regional distribution, construction, and municipal services. It offers a good balance of maneuverability and load capacity, with various axle configurations available. The CF is known for its reliability and ease of body mounting."
+    },
+    {
+      "manufacturer": "MAN",
+      "model": "TGS",
+      "year": 2007,
+      "description": "The MAN TGS is a heavy-duty truck series designed for construction and short-radius distribution. It offers robust construction, good maneuverability, and high payload capacity. The TGS is available with various axle configurations and equipment options to suit different applications."
+    },
+    {
+      "manufacturer": "Iveco",
+      "model": "Eurocargo",
+      "year": 1991,
+      "description": "The Iveco Eurocargo is a medium-duty truck range popular in urban and regional distribution. Known for its versatility, the Eurocargo offers a wide range of wheelbases and body options. It features good maneuverability for urban operations and is available with both diesel and natural gas powertrains."
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "K",
+      "year": 2013,
+      "description": "The Renault K is a heavy-duty construction truck designed for challenging off-road conditions. It features a robust chassis, high ground clearance, and powerful engines. The K series offers various axle configurations and is popular in mining, quarrying, and heavy construction applications."
+    },
+    {
+      "manufacturer": "Volvo",
+      "model": "FMX",
+      "year": 2010,
+      "description": "The Volvo FMX is a rugged truck designed for heavy construction duties. It features reinforced components for durability in tough conditions, high ground clearance, and powerful engines. The FMX offers advanced features like Volvo Dynamic Steering for improved maneuverability in difficult terrain."
+    },
+    {
+      "manufacturer": "Scania",
+      "model": "P Series",
+      "year": 2004,
+      "description": "The Scania P Series is a versatile range of trucks suitable for urban and regional distribution, as well as some construction applications. It offers a lower cab for easy entry and exit, making it ideal for multi-drop operations. The P Series is available with various powertrains, including options for alternative fuels."
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "Atego",
+      "year": 1998,
+      "description": "The Mercedes-Benz Atego is a range of light to medium-duty trucks ideal for urban and regional distribution. It offers good maneuverability, a comfortable cab, and efficient powertrains. The Atego is known for its versatility and is popular in various applications including refrigerated transport and municipal services."
+    },
+    {
+      "manufacturer": "DAF",
+      "model": "LF",
+      "year": 2001,
+      "description": "The DAF LF is a series of light to medium-duty trucks designed for urban and regional distribution. It offers excellent maneuverability, a spacious cab with easy entry/exit, and good visibility. The LF is known for its low operating costs and is available with various body options to suit different applications."
+    },
+    {
+      "manufacturer": "MAN",
+      "model": "TGL",
+      "year": 2005,
+      "description": "The MAN TGL is a light to medium-duty truck range suitable for urban and regional distribution. It offers good payload capacity, maneuverability, and driver comfort. The TGL features efficient engines and is available in various configurations to suit different operational needs."
+    },
+    {
+      "manufacturer": "Iveco",
+      "model": "Daily",
+      "year": 1978,
+      "description": "The Iveco Daily, while primarily a van, is also available in chassis cab versions for light truck applications. It offers car-like driving dynamics with the robustness of a truck. The Daily is known for its versatility and is popular in applications ranging from urban delivery to light construction."
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "D",
+      "year": 2013,
+      "description": "The Renault D is a range of medium-duty trucks designed for urban and regional distribution. It offers good visibility, maneuverability, and a comfortable cab. The D series is available in various configurations and is known for its efficiency in distribution operations."
+    },
+    {
+      "manufacturer": "Volvo",
+      "model": "FL",
+      "year": 1985,
+      "description": "The Volvo FL is a medium-duty truck range suitable for urban distribution and light construction. It offers good visibility, easy cab access, and maneuverability. The FL is known for its versatility and is popular in applications such as local distribution and municipal services."
+    },
+    {
+      "manufacturer": "Scania",
+      "model": "G Series",
+      "year": 2007,
+      "description": "The Scania G Series is a versatile range of trucks suitable for various applications including long-haul, construction, and distribution. It offers a good balance between the P and R series in terms of cab height and specifications. The G Series is known for its fuel efficiency and driver comfort."
+    },
+    {
+      "manufacturer": "Mercedes-Benz",
+      "model": "Econic",
+      "year": 1998,
+      "description": "The Mercedes-Benz Econic is a specialized truck designed primarily for municipal services such as waste collection. It features a low-entry cab with a full-height door for easy entry/exit and excellent visibility. The Econic is available with both diesel and natural gas powertrains."
+    },
+    {
+      "manufacturer": "DAF",
+      "model": "XG",
+      "year": 2021,
+      "description": "The DAF XG is a new premium long-haul truck range introduced to comply with the latest EU regulations. It offers class-leading space, aerodynamics, and efficiency. The XG features advanced driver assistance systems, a luxurious interior, and highly efficient powertrains."
+    },
+    {
+      "manufacturer": "MAN",
+      "model": "eTGM",
+      "year": 2019,
+      "description": "The MAN eTGM is an all-electric heavy-duty truck designed for urban operations. It offers zero local emissions, low noise operation, and a range suitable for daily urban distribution routes. The eTGM represents MAN's move towards sustainable urban logistics solutions."
+    },
+    {
+      "manufacturer": "Iveco",
+      "model": "S-Way",
+      "year": 2019,
+      "description": "The Iveco S-Way is the brand's latest heavy-duty truck range for long-haul operations. It features improved aerodynamics, advanced connectivity, and efficient powertrains. The S-Way offers a spacious and comfortable cab, making it suitable for long-distance transport."
+    },
+    {
+      "manufacturer": "Renault",
+      "model": "T High",
+      "year": 2013,
+      "description": "The Renault T High is the flagship variant of the T range, featuring a flat floor cab for maximum space. It's designed for long-haul operations and offers premium comfort features, efficient powertrains, and advanced driver assistance systems. The T High is popular among owner-operators and drivers who spend long periods in their vehicles."
+    },
+    {
+      "manufacturer": "Volvo",
+      "model": "VNL",
+      "year": 1996,
+      "description": "While primarily sold in North America, the Volvo VNL is Volvo's flagship long-haul truck for that market. It offers a spacious cab, advanced safety features, and efficient powertrains. The VNL showcases Volvo's global truck design philosophy adapted for the North American market."
+    },
+    {
+      "manufacturer": "Scania",
+      "model": "XT",
+      "year": 2017,
+      "description": "The Scania XT is a rugged version of Scania's truck range designed for heavy-duty applications in demanding conditions. It features reinforced components, higher ground clearance, and a distinctive robust appearance. The XT is popular in construction, mining, and forestry applications."
+    }
+  ]
+}
